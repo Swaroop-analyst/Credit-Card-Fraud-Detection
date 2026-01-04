@@ -2,6 +2,8 @@
 
 End-to-End Machine Learning Project | Finance Analytics | CRISP-DM Framework
 
+Note: Since Dataset is huge and Model not able to upload, Files are available on request and this repo is a sample for demonstration
+
 📌 Business Understanding
 
 Credit card fraud causes significant financial losses for banks and payment processors.
